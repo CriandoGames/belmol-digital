@@ -4,7 +4,7 @@ Este repositório contém meu projeto do desafio para a Bemol Digital.
 
 ## O que foi usado para desenvolver o projeto
 
-* **FrameWork**: flutter
+* **Frameworks**: flutter
 * **State management**: GetX,
 * **Backend connection**: API ViaCEP.
 
